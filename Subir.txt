@@ -1,10 +1,9 @@
-// subir y que genere un sominio gratis.
+// Proyecto publicado en
 
-// video de referencia....
+*********************************************************************************
+https://extraordinary-otter-e6ab5d.netlify.app/
+*********************************************************************************
 
- Punto 124  Publicar tus Proyectos web gratis en Netlif
-
-
-Netlify   -- ahi se puede subir el proyecto y te da un dominio al cual pueden ingresar, queda publicado.
+ (Netlify   --  subir el proyecto, devuelve  un dominio al cual pueden ingresar, queda publicado.)
 
 
