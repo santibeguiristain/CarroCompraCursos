@@ -1,0 +1,10 @@
+// subir y que genere un sominio gratis.
+
+// video de referencia....
+
+ Punto 124  Publicar tus Proyectos web gratis en Netlif
+
+
+Netlify   -- ahi se puede subir el proyecto y te da un dominio al cual pueden ingresar, queda publicado.
+
+
